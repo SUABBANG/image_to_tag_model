@@ -3,5 +3,6 @@
 2. 웹페이지 
 
 # TAG
-![image](https://github.com/SUABBANG/image_to_tag/assets/94156202/fe264f0d-0cad-455f-b494-a58e4361d6bd)
+![image](https://github.com/SUABBANG/image_to_tag_model/assets/94156202/e69c2f71-7680-41f5-96f1-2bb1e8f18b96)
+
 
